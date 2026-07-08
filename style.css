@@ -1,0 +1,59 @@
+.s{
+    color: yellow;
+    text-align: center;
+}
+body{
+    background-color: rgb(25, 25, 50);
+}
+.v{
+    color: green;
+    text-align: center;
+    
+}
+
+.a{
+    text-align: center;
+    color: white;
+}
+
+.rasm{
+    width: 320px;
+    height: 500px;
+    border: solid 3px yellow;
+    
+}
+.rasmik{
+    width: 300px ;
+    height: 500px ;
+    border: solid 3px yellow;
+
+}
+.h{
+    color: white;
+}
+
+th{
+    border: solid 2px yellow;
+}
+td{
+    border: solid 2px yellow;
+}
+table{
+    width: 95%;
+    border-collapse: collapse;
+    border: solid 2px yellow;
+    text-align: center;
+}
+.r{
+    width: 98%;
+    height: 30px;
+    border-radius: 6px;
+}
+.j{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    width: 400px;
+    height: 35px;
+    border-radius: 20px;
+}
